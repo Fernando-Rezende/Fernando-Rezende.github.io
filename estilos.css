@@ -50,7 +50,7 @@ body {
 .botao {
   flex: 2;
   background-color: #040404;
-  padding: 20px;
-  border-radius: 6px;
+  padding: 80px;
+  border-radius: 10px;
   display: inline-block;
 }
